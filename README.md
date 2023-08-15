@@ -48,4 +48,9 @@
   * The month December,November had maximum sales but the profit earned was more in December.
     
   * the Average product delivery is within 4 days.
-    
+  # Super Store Sale Dashboard and Forcating For 15 days.
+  
+  ![Super_Sales 1](https://github.com/SumeetTompe070/Super_Store_Sales_Dashboard_Power_BI/assets/140255237/47bfe3bd-9640-4183-89bd-13a5aa2f4571).
+  ![Super_Sales 2](https://github.com/SumeetTompe070/Super_Store_Sales_Dashboard_Power_BI/assets/140255237/a7754d61-b908-4e23-9be5-5cdfc874ff77)
+
+
